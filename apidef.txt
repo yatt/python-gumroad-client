@@ -1,0 +1,7 @@
+/sessions post email password
+/sessions delete
+/links post name url price description
+/links get
+/links/:id get id
+/links/:id put id name url price description
+/links/:id delete id
